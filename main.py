@@ -31,6 +31,7 @@ async def read_audio(audio_file: str):
     return FileResponse(f"output/{audio_file}")
 
 
+# main only runs when called
 if __name__ == "__main__":
     app = FastAPI()
     import uvicorn
