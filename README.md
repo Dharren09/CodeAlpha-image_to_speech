@@ -65,9 +65,9 @@ You can configure the application by modifying the `config.py` file. You can cha
 ## Contributor
    
    Makoha Dharren Pius
-   `Twitter`: https://www.twitter.com/iamdharrenzug
-   `LinkedIn`: www.linkedin.com/in/makoha-dharren-pius/542b37156
-   `Instagram`: www.instagram.com/iamdharrenz_ug
+      - `Twitter`: https://www.twitter.com/iamdharrenzug
+      - `LinkedIn`: www.linkedin.com/in/makoha-dharren-pius/542b37156
+      - `Instagram`: www.instagram.com/iamdharrenz_ug
 
 ## Acknowledgments
 
